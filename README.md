@@ -23,6 +23,5 @@ algorithms like sha1, md5 etc.**
 
 **Explain, at a very basic level, OAuth 2 + OpenID Connect and the problems it solves.**
 
-**Demonstrate, with focus on security, a proposal for an Express/Mongo+Angular-seed with built in support**
-
-**for most of the basic security problems, SSL and ready to deploy on your favourite Cloud Hosting Service.**
+**Demonstrate, with focus on security, a proposal for an Express/Mongo+Angular-seed with built in support
+for most of the basic security problems, SSL and ready to deploy on your favourite Cloud Hosting Service.**
