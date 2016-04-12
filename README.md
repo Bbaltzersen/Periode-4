@@ -3,6 +3,12 @@
 **Explain basic security terms like authentication, authorization, confidentiality, integrity, SSL/TLS and
 provide examples of how you have used them.**
 
+Authentication: 
+Is when you need to make sure who have access to your website or application (or parts of it), we have used it when we've created
+a log in, where we authenticated the users with a username and password.
+
+Authorization:
+
 **Explain basic security threads like: Cross Site Scripting (XSS), SQL Injection and whether something similar
 to SQL injection is possible with NoSQL databases like MongoDB, and DOS-attacks. Explain/demonstrate
 ways to cope with these problems**
